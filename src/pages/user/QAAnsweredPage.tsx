@@ -9,7 +9,7 @@ const QAAnsweredPage = () => {
         <div className="flex-grow">
           <AppHeader
             rightBlock={
-              <h1 className="text-2xl font-semibold">Câu hỏi đã giải đáp</h1>
+              <h1 className="text-2xl font-semibold">Câu hỏi đã giải đáp 1</h1>
             }
           />
         </div>
