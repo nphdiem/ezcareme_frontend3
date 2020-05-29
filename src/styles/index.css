@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+:root {
+  --black: #000;
+  --bittersweet: #ff5a5f;
+  --white: #fff;
+  --mercury: #e5e5e5;
+  --scorpion: #675e5f;
+}
