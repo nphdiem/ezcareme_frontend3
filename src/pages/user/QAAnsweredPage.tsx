@@ -12,6 +12,7 @@ const QAAnsweredPage = () => {
               <h1 className="text-2xl font-semibold">Câu hỏi đã giải đáp</h1>
             }
           />
+          HELLO
         </div>
       </div>
     </PageContainer>
